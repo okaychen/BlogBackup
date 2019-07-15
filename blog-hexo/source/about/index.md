@@ -30,9 +30,6 @@ Web 技术更新很快，本站很多文章都具有时效性，我会及时更�
 
 - 2017年12月19日，应「腾讯云+社区」运营的邀请，加入他们自媒体扶持计划，文章被同步在腾讯云+社区专栏中
 
-<!-- <p style="width:200px;display: block;
-    margin: 0 auto;"><img style="border-radius:10px" src="http://www.chenqaq.com/assets/images/tc.jpg" alt=""></p> -->
-
 - 2017年12月19日，收到「慕课网手记」运营入驻邀请
 
 - 2018年1月21日，申请参与[「掘金翻译计划」](https://github.com/xitu/gold-miner)并通过，成为广大译者中的其中一员
