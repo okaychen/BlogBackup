@@ -4,8 +4,7 @@ layout: Archives
 date: 2018-09-21 11:33:18
 ---
 
-<img style="border-radius:10px;width:60%;" src="http://www.chenqaq.com/assets/photos/banner02.png" alt="">
-
+<img style="border-radius:10px;width:100%;" src="http://www.chenqaq.com/assets/photos/banner02.png" alt="">
 
 <!-- ![banner](http://www.chenqaq.com/assets/photos/banner02.png) -->
 
@@ -23,7 +22,7 @@ date: 2018-09-21 11:33:18
 
 Web 技术更新很快，本站很多文章都具有时效性，我会及时更新原文，持续和大家分享，除去特殊注明外，均为作者原创，采用更开放的[「署名 4.0 国际（CC BY 4.0）」](https://creativecommons.org/licenses/by/4.0/deed.zh)创作共享协议，欢迎大家转载，转载时请保留文章最后的出处。
 
-![「署名 4.0 国际（CC BY 4.0）」](http://www.chenqaq.com/assets/images/cc-by.png)
+<!-- ![「署名 4.0 国际（CC BY 4.0）」](http://www.chenqaq.com/assets/images/cc-by.png) -->
 
 <!-- # 个人经历
 
