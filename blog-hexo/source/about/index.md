@@ -9,7 +9,7 @@ date: 2018-09-21 11:33:18
 
 <!-- ![banner](http://www.chenqaq.com/assets/photos/banner02.png) -->
 
-<p><i class="icon icon-book"></i> 浅笔墨画❀琐碎小记，浅墨博主网上代号喜欢用okaychen，高中毕业后接触`前端开发`，项目经验丰富，热衷于编程技术，向往敏捷开发，喜欢读书，爱好前端以及写作。一些练习的作品和开源项目,👉[Github](http://www.github.com/okaychen)</p>
+<p><i class="icon icon-book"></i> 浅笔墨画❀琐碎小记，浅墨博主网上代号喜欢用okaychen，一些练习的作品和开源项目，👉[Github](http://www.github.com/okaychen)</p>
 
 <!-- # 我经常活跃的社区
 
