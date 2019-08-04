@@ -98,8 +98,8 @@ share_item:
 donate:
   enable: true
   word: 世界美好 你也是
-  # wechat: /images/donate1.png
-  # alipay: /images/donate2.png
+  wechat: /images/header.jpg
+  alipay: /images/donate2.png
 
 
 # toc
