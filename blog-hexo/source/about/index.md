@@ -20,7 +20,7 @@ date: 2018-09-21 11:33:18
 
 2017 年 10 月 16 日，入住掘金社区：[okaychen 個人主頁](https://juejin.im/user/59e3efdf6fb9a0451a756b78) -->
 
-Web 技术更新很快，本站很多文章都具有时效性，我会及时更新原文，持续和大家分享，除去特殊注明外，均为作者原创，采用更开放的[「署名 4.0 国际（CC BY 4.0）」](https://creativecommons.org/licenses/by/4.0/deed.zh)创作共享协议，欢迎大家转载，转载时请保留文章最后的出处。
+<!-- Web 技术更新很快，本站很多文章都具有时效性，我会及时更新原文，持续和大家分享，除去特殊注明外，均为作者原创，采用更开放的[「署名 4.0 国际（CC BY 4.0）」](https://creativecommons.org/licenses/by/4.0/deed.zh)创作共享协议，欢迎大家转载，转载时请保留文章最后的出处。 -->
 
 <!-- ![「署名 4.0 国际（CC BY 4.0）」](http://www.chenqaq.com/assets/images/cc-by.png) -->
 
