@@ -8,7 +8,7 @@ date: 2018-09-21 11:33:18
 
 <!-- ![banner](http://www.chenqaq.com/assets/photos/banner02.png) -->
 
-<p><i class="icon icon-book"></i> 浅笔墨画❀琐碎小记，浅墨博主网上代号喜欢用okaychen，一些练习的作品和开源项目，👉[Github](http://www.github.com/okaychen)</p>
+<p><i class="icon icon-book" style="text-align:center"></i> 浅笔墨画❀琐碎小记，浅墨网上代号喜欢用okaychen，一些练习的作品和开源项目，👉[Github](http://www.github.com/okaychen)</p>
 
 <!-- # 我经常活跃的社区
 
