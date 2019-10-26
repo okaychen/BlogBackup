@@ -4,7 +4,7 @@ layout: Archives
 date: 2018-09-21 11:33:18
 ---
 
-<img style="border-radius:10px;width:100%;" src="http://www.chenqaq.com/assets/photos/banner02.png" alt="">
+<img style="border-radius:10px;width:50%;" src="http://www.chenqaq.com/assets/photos/banner02.png" alt="">
 
 <!-- ![banner](http://www.chenqaq.com/assets/photos/banner02.png) -->
 
