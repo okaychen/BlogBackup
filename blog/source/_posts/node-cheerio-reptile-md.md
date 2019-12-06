@@ -2,6 +2,7 @@
 title: node爬虫实践
 date: 2019-11-05 21:22:34
 comments: true
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_046.jpg"
 tags:
     - Node
     - KOA

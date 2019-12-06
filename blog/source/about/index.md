@@ -2,10 +2,9 @@
 layout: page
 date: 2017-12-5 20:04
 title: 关于
-body: [article, grid, comments]
-valine:
-  placeholder: 有什么想对我说的呢？
-sidebar: false
+comments: false
+# top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_002.jpg"
+# description: 
 ---
 
 <img style="border-radius:10px;width:100%;margin-bottom:20px" src="http://www.chenqaq.com/assets/photos/banner01.png" alt="">

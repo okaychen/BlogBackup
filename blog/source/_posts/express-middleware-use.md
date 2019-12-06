@@ -2,6 +2,7 @@
 title: Express中间件
 date: 2017-12-18 10:40:48
 comments: true
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_017.jpg"
 top: 最佳阅读
 tags:
     - Node

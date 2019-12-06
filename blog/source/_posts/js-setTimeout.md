@@ -1,6 +1,7 @@
 ---
 title: 同步、异步、回调执行顺序经典闭包setTimeout分析
-date: 2017-12-06 17:47:14
+date: 2017-12-06 17:47
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_032.jpg"
 comments: true
 tags:  
     - 事件循环

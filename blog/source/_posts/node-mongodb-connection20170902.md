@@ -1,6 +1,7 @@
 ---
 title: mongodb原生node驱动
 date: 2017-09-02 03:55
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_047.jpg"
 tags:
     - Node
     - mongodb

@@ -2,6 +2,7 @@
 title: css3多栏属性&&JS实现瀑布流
 date: 2017-06-14 02:05
 comments: true
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_021.jpg"
 tags:
     - JavaScript
     - CSS

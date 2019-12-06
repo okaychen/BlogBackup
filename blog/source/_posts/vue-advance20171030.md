@@ -1,6 +1,7 @@
 ---
 title: Vue起步 - 从场景中看父子组件间通信
 date: 2017-10-30 20:54
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_049.jpg"
 tags:  
     - Vue 
 categories:

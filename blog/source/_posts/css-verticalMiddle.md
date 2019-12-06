@@ -1,6 +1,7 @@
 ---
 title: 把所有的东西都对齐吧！
 date: 2017-12-07 17:17:50
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_009.jpg"
 comments: true
 tags:
     - CSS

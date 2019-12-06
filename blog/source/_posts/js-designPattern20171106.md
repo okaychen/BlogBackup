@@ -1,6 +1,7 @@
 ---
 title: 设计模式之单例模式与场景实践
 date: 2017-11-06 21:19
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_023.jpg"
 categories:
   - [JavaScript]
   - [设计模式]

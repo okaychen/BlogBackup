@@ -1,6 +1,7 @@
 ---
 title: 20191124演讲稿备份
 date: 2019-11-22 22:31:01
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_044.jpg"
 tags: 岁言心语
 categories: 岁言心语
 

@@ -2,6 +2,7 @@
 title: package.json的正确使用姿势
 date: 2017-12-29 15:27:45
 top: 最佳阅读
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_010.jpg"
 comments: true
 tags:
     - Node

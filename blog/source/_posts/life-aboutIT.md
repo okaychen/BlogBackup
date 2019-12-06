@@ -1,6 +1,7 @@
 ---
 title: 碎言心语-短笔记
 date: 2018-04-09 19:03:37
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_036.jpg"
 tags: 岁言心语
 categories: 岁言心语
 ---

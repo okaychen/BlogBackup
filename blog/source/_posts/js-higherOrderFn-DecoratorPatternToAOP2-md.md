@@ -1,6 +1,7 @@
 ---
 title: 用AOP装饰函数-实践篇
 date: 2018-10-23 16:16:47
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_026.jpg"
 categories:
   - [JavaScript]
   - [设计模式]

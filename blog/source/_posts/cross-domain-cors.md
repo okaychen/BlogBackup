@@ -1,6 +1,7 @@
 ---
 title: 浏览器同源政策
 date: 2018-03-15 10:51:07
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_003.jpg"
 tags:
     - WEB安全
 categories:

@@ -8,7 +8,7 @@ subtitle: github @okaychen
 description: 浅笔墨画❀琐碎小记
 keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
 author: okaychen
-language: Chinese
+language: zh-CN
 ? timezone
 
 # 侧边栏小部件
@@ -24,8 +24,6 @@ avatar: https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/icon/header.jpg
 leancloud:
     app_id: rHHVLGdGTcJm8NvtrtnJInkX-gzGzoHsz
     app_key: QXzgEzka47xO6X8fhHgc6ei4
-
-use_cdn: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -89,7 +87,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material-x
+theme: Butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

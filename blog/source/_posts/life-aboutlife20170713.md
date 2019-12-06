@@ -1,6 +1,7 @@
 ---
 title: 你愿不愿意做一个一异类，异于常人，出类拔萃
 date: 2017-07-13 14:13
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_039.jpg"
 tags:  
     - 岁言心语
 categories:

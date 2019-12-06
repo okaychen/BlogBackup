@@ -2,6 +2,7 @@
 title: Express4.x API (二)：Request (译) 
 date: 2017-12-20 22:07:04
 comments: true
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_013.jpg"
 tags:
     - Node
     - Express

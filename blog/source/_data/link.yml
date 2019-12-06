@@ -1,0 +1,37 @@
+class:
+  class_name: 社区推荐
+  link_list:
+    1:
+      name: 掘金
+      link: https://juejin.im/
+      avatar: https://b-gold-cdn.xitu.io/v3/static/img/logo.a7995ad.svg
+      descr: 帮助开发者成长
+    2:
+      name: v2ex
+      link: https://www.v2ex.com
+      avatar: https://www.v2ex.com/static/img/icon_rayps_64.png
+      descr: 创意工作者们的社区
+    3:
+      name: stackoverflow
+      link: https://stackoverflow.com/
+      avatar: https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d
+      descr: for developers 
+
+class2:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: test
+      link: http://xiaowiba.com
+      avatar: https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/icon/header.jpg 
+      descr: 浅笔墨画❀琐碎小记
+    2:
+      name: 小尾巴
+      link: http://xiaowiba.com
+      avatar: http://xiaowiba.com/xwb.jpg
+      descr: 小尾巴
+    3:
+      name: 木子博客
+      link: https://muuzi.cn
+      avatar: https://muuzi.cn/mzlogo.png
+      descr: 木子博客

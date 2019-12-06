@@ -1,6 +1,7 @@
 ---
 title: requestAnimationFrame优化
 date: 2018-05-15 18:01:39
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_030.jpg"
 categories:
   - JavaScript
 tags:

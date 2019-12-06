@@ -1,5 +1,6 @@
 ---
 title: steps调速函数&CSS值与单位之ch
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_004.jpg"
 date: 2017-12-13 21:16:41
 comments: true
 tags:

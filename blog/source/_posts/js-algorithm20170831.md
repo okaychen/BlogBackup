@@ -1,6 +1,7 @@
 ---
 title: 递归函数-汉诺塔经典递归
 date:  2017-08-31 11:07
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_018.jpg"
 tags:
     - JavaScript
 categories:

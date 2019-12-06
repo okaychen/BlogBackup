@@ -2,6 +2,7 @@
 title: 跟着underscore学习防抖和节流
 date: 2018-03-20 15:54:44
 comments: true
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_022.jpg"
 tags:
     - JavaScript
 categories:

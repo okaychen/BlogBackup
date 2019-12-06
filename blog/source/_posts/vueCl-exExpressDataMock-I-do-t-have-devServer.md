@@ -1,6 +1,7 @@
 ---
 title: webpack-dev-server
 date: 2018-01-19 20:37:03
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_002.jpg"
 excerpt_render: true  
 comments: true
 tags:  

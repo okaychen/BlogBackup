@@ -1,6 +1,7 @@
 ---
 title: 这一年，是责任与奋勉齐驱并进
 date: 2017-09-09 00:53
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_040.jpg"
 tags:  
     - 岁言心语
 categories:

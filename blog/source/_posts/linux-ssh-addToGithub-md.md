@@ -1,6 +1,7 @@
 ---
 title: "linux下误将ssh密钥写入/root"
 date: 2018-10-05 12:05:37
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_045.jpg"
 tags:  
     - Linux
     - SSH

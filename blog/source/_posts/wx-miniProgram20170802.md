@@ -1,6 +1,7 @@
 ---
 title: 微信小程序-滚动消息通知
 date: 2017-08-02 20:20
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_003.jpg"
 tags:  
     - 小程序
 categories:

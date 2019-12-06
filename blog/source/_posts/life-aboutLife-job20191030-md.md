@@ -1,6 +1,7 @@
 ---
 title: 最幸福的人，最好的我们，最向往的生活
 date: 2019-10-30 14:30:19
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_038.jpg"
 tags: 岁言心语
 categories: 岁言心语
 ---

@@ -1,6 +1,7 @@
 ---
 title: 清风扶桑，沉醉不得归途
 date: 2018-11-06 14:28:48
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_042.jpg"
 top: 最佳阅读
 tags: 岁言心语
 categories: 岁言心语

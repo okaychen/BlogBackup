@@ -1,6 +1,7 @@
 ---
 title: 强大的原型和原型链
 date: 2017-09-21 10:09
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_028.jpg"
 categories:
   - JavaScript
 tags:

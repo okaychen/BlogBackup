@@ -1,6 +1,7 @@
 ---
 title: JavaScript快速查找节点
 date: 2017-08-11 17:46
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_024.jpg"
 tags:
     - JavaScript
 categories:

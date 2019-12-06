@@ -1,6 +1,7 @@
 ---
 title: wx.request接口需要注意的几个问题
 date: 2017-10-12 12:58 
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_005.jpg"
 tags:  
     - 小程序
 categories:

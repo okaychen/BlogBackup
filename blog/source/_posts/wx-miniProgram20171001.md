@@ -1,6 +1,7 @@
 ---
 title: 微信小程序实现各种特效实例
 date: 2017-10-01 02:08
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_004.jpg"
 tags:  
     - 小程序
 categories:

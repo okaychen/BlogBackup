@@ -1,6 +1,7 @@
 ---
 title: 闭包初体验
 date:  2017-05-03 22:35
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_020.jpg"
 tags:
     - JavaScript
 categories:

@@ -1,6 +1,7 @@
 ---
 title: Angule Cli创建Angular项目
 date: 2017-05-27 20:04
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_019.jpg"
 tags:
     - JavaScript
 categories:

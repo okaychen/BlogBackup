@@ -1,6 +1,7 @@
 ---
 title: "学校寒冬的清晨和深夜"
 date: 2018-01-10 21:36:04
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_043.jpg"
 tags:  
     - 岁言心语
 categories:

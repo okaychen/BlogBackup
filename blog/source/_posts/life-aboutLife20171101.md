@@ -1,6 +1,7 @@
 ---
 title: 青春是如此美好，又怎忍平凡度过
 date: 2017-11-01 19:16
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_041.jpg"
 tags:  
     - 岁言心语
 categories:

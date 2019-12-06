@@ -1,6 +1,7 @@
 ---
 title: RegExp正则匹配模式汇总
 date: 2017-08-19 21:25
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_029.jpg"
 categories:
   - JavaScript
 tags:

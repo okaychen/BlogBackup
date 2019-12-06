@@ -1,6 +1,7 @@
 ---
 title: 使用async和enterproxy控制并发数量
 date: 2017-12-31 10:32:00
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_001.jpg"
 tags:
     - Node
 categories:

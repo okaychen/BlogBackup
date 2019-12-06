@@ -1,6 +1,7 @@
 ---
 title: Vue起步 - 路由与页面间导航
 date:  2017-11-07 16:43
+cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_050.jpg"
 tags:  
     - Vue 
 categories:
