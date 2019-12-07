@@ -1,11 +1,17 @@
 ---
 title: 实验室
+type: 'page'
 date: 2018-11-11 22:14:01
-top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/full01.jpg"
+top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/banner01.png"
 ---
 
 {% note success %}
-由本人业余时间完成，仅供学习参考使用
+#### 对我好奇嘛
+小站：浅笔墨画❀琐碎小记，网上代号okaychen，95后Github粉执着于编程技术崇尚极客精神，2020年毕业就职于帝都某度，2017年12月5日搭建本站，初衷是个人写作和技术生活的学习记录，一些练习的作品和开源项目 👉 [Github](http://www.github.com/okaychen)
+{% endnote %}
+
+{% note info %}
+以下由本人业余时间完成，仅供学习参考使用
 {% endnote %}
 
 ☆实验室一：JS 模拟简易版贪吃蛇，无依赖.
@@ -16,9 +22,8 @@ top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/full01.
 
 - 效果展示：
 {% gallery %}
-![](http://www.chenqaq.com/assets/images/4tjOY7QXHK.gif)
+![](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/images/4tjOY7QXHK.gif)
 {% endgallery %}
-
 
 实验室二：IndexedDB 增删改查.
 
@@ -40,8 +45,8 @@ top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/full01.
 - 效果展示：
 
 {% gallery %}
-![](http://www.chenqaq.com/assets/photos/elm.gif)
-![](http://www.chenqaq.com/assets/photos/elm_seller.gif)
+![](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/elm.gif)
+![](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/elm_seller.gif)
 {% endgallery %}
 
 实验室四：一个图片预加载的小插件
@@ -60,5 +65,5 @@ top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/full01.
 
 - 效果展示：
 {% gallery %}
-![](http://www.chenqaq.com/assets/photos/node_reptile.png)
+![](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/node_reptile.png)
 {% endgallery %}

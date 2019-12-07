@@ -1,3 +1,12 @@
+# 图床地址：https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/icon/header.jpg
+
+#  -----note demo
+# {% note success no-icon %}
+# something code
+# {% endnote %}
+# [class] : default|primary|success|info|warning|danger
+# [no-icon]: Disable icon in note
+
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/

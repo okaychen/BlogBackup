@@ -3,7 +3,7 @@ title: "手起刀落-一起写经典的贪吃蛇游戏"
 date: 2017-12-5 23:30
 cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_033.jpg"
 comments: true
-top: 最佳阅读
+top: 98
 tags:  
     - 小游戏
     - JavaScript
@@ -16,7 +16,7 @@ categories:
 
 小时候玩的经典贪吃蛇游戏我们印象仍然深刻，谋划了几天，小时候喜欢玩的游戏，长大了终于有能力把他做出来(从来都没有通关过，不知道自己写的程序，是不是能通关了...)，好了，闲话不多谈，先来看一下效果吧！！
 
-![效果图](http://www.chenqaq.com/assets/images/4tjOY7QXHK.gif)
+![效果图](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/images/4tjOY7QXHK.gif)
 
 功能和小时候玩的贪吃蛇一样，
 
@@ -34,14 +34,14 @@ categories:
 # 结构分解
 如果构建一个简单的经典贪吃蛇游戏呢？我们根据面板可以分解出如下结构：
 
-![面板结构分解](http://www.chenqaq.com/assets/images/snake1.png)
+![面板结构分解](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/images/snake1.png)
 
 因为其他面板比较简单，我们重点来看一下游戏面板
 
 ## 游戏面板
 游戏面板是核心，在游戏面板中，我们来分解一下游戏面板我们需要的因素：
     
-![](http://www.chenqaq.com/assets/images/snake2.png)
+![](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/images/snake2.png)
 
 ### 场景、snake、食物
 首先我们需要一个游戏场景、snake、食物这些基础设施
@@ -219,6 +219,6 @@ ok以上展示出一些核心部分，构建出一个舞台中一只小蛇的故
 
 PS:到现在也没有通关过..现在不知道能不能通关了...
 
-最后在附上次源码，欢迎fork交流：[https://github.com/okaychen/practice](https://github.com/okaychen/practice)...
-因为自己测试用的服务器被占用，目前只有做的效果图供大家参考喽.
+最后附上源码：[https://github.com/okaychen/practice](https://github.com/okaychen/practice)
+在线测试：[戳我试玩](https://www.chenqaq.com/lab/RetroSnake/index.html)
 

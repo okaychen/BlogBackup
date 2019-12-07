@@ -7,7 +7,7 @@ comments: false
 # description: 
 ---
 
-<img style="border-radius:10px;width:100%;margin-bottom:20px" src="http://www.chenqaq.com/assets/photos/banner01.png" alt="">
+<img style="border-radius:10px;width:100%;margin-bottom:20px" src="https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/banner01.png" alt="">
 
 浅笔墨画❀琐碎小记，网上代号okaychen，执着于编程技术崇尚极客精神，2020年毕业就职于百度，2017年12月5日基于`hexo+github`搭建本站，初衷只是个人写作和技术生活的学习记录，一些练习的作品和开源项目 👉 [github](http://www.github.com/okaychen)
 <!-- # 我经常活跃的社区
