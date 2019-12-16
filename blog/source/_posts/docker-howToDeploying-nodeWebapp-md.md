@@ -11,7 +11,7 @@ categories:
 
 <!--more-->
 
-<video src="https://www.chenqaq.com/assets/videos/test-2018-12-19_17.23.50.mp4" controls allowfullscreen="true" loop="true" autoplay="autoplay" muted width="100%" min-height="100%">embed: xss--chrome_test</video>
+<video src="https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/videos/test-2018-12-19_17.23.50.mp4" controls allowfullscreen="true" loop="true" autoplay="autoplay" muted width="100%" min-height="100%">embed: xss--chrome_test</video>
 
 可以通过`sudo docker run -it mynodeapp /bin/bash`在新容器内开启一个终端并允许进行交互
 ![在新容器内开启一个终端并可以进行交互](https://www.chenqaq.com/assets/images/docker-bash01.png)
