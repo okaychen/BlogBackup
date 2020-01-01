@@ -21,7 +21,7 @@ class2:
   class_name: 友情链接
   link_list:
     1:
-      name: test
+      name: okaychen
       link: http://xiaowiba.com
       avatar: https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/icon/header.jpg 
       descr: 浅笔墨画❀琐碎小记
