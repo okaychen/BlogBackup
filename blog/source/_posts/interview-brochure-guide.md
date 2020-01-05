@@ -21,8 +21,8 @@ categories:
 |                             篇章                             | 第一版预计完成 |           状态           |
 | :----------------------------------------------------------: | :------------: | :----------------------: |
 | [HTML&CSS](https://github.com/okaychen/FE-Interview-Questions/blob/master/html-and-css.md) |      Q20       | 😀 已完善[2019年12月31日] |
-| [JavaScript](https://github.com/okaychen/FE-Interview-Questions/blob/master/javascript.md) |      Q25       | 😀已完善[2019年12月31日]  |
-| [HTTP&浏览器](https://github.com/okaychen/FE-Interview-Questions/blob/master/http.md) |      Q20       |        😂 部分完善        |
+| [JavaScript](https://github.com/okaychen/FE-Interview-Questions/blob/master/javascript.md) |      Q25       | 😀 已完善[2019年12月31日]  |
+| [HTTP&浏览器](https://github.com/okaychen/FE-Interview-Questions/blob/master/http.md) |      Q20       |        😂 已完善[2020年1月4日]  |
 |                            Vue篇                             |      Q15       |         🤔 待添加         |
 |                            算法篇                            |      Q10       |         🤔 待添加         |
 |                            安全篇                            |     Q5-10      |         🤔 待添加         |
@@ -32,7 +32,9 @@ categories:
 >
 > 构建工具篇以前端工作流中的webpack为核心
 >
-> 面试官一般都会根据回答进行追问，所以小册总结上下几个问题，一般具有连贯性
+> 面试官一般都会根据回答进行追问，所以小册总结上下几个问题一般具有连贯性
+> 
+> 其次也正是因为是面试小册，有些问题只是总结出较核心概念，比如浏览器解析渲染页面的过程，其实是一个很细的过程，其中滋味还需花时间细品；另外我也有意愿学习并再次总结这些问题，小册结束之后我会开始这个计划；在这给自己定下一个目标吧，未来十年我对待技术和写作从一始终，会坚持持续和大家分享，我们一起来见证
 
 # 使用姿势
 
@@ -46,9 +48,9 @@ Gitbook：[docs.chenqaq.com](https://docs.chenqaq.com/)
 
 ## Github：‌
 
-Github阅读：<https://github.com/okaychen/FE-Interview-Questions>
+Github阅读：[https://github.com/okaychen/FE-Interview-Brochure](https://github.com/okaychen/FE-Interview-Brochure)
 
-> 那你说我觉得你这点总结的不对或者有更好的建议，该咋办，很简单，你给我发个issue，我会第一时间跟进
+那你说我觉得你这点总结的不对或者有更好的建议，该咋办，很简单，你给我发个issue，我会第一时间跟进
 
 那我想下载到本地呢，打开你的git bash：
 
