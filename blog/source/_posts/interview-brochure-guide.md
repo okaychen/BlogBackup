@@ -119,4 +119,4 @@ Github阅读：[https://github.com/okaychen/FE-Interview-Brochure](https://githu
       - 录取通知书是应聘人才愿意接收offer，需要签字生效，会写明应届生需要寄交三方，生效后任何一方违约都需要赔偿录取通知里写明的违约金
     - 正式接受后，一般可以选择毕业前去实习，也可以不实习自己安排余下时间等毕业申请入职
 
-> 原文地址：[浅笔墨画❀琐碎小记](https://www.chenqaq.com/2019/11/22/life-speech20191124/)
+> 原文地址：[前端随笔](https://www.chenqaq.com/2019/11/22/life-speech20191124/)

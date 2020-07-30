@@ -1,7 +1,7 @@
 ---
 # post Front-matter
 title: 置顶公告
-date:  2017-12-5 00:00
+date:  2020-7-30 00:00
 cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_002.jpg"
 comments: false
 # keywords:

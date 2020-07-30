@@ -24,7 +24,7 @@ class2:
       name: okaychen
       link: http://xiaowiba.com
       avatar: https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/icon/header.jpg 
-      descr: 浅笔墨画❀琐碎小记
+      descr: 前端随笔
     2:
       name: 小尾巴
       link: http://xiaowiba.com
@@ -35,3 +35,13 @@ class2:
       link: https://muuzi.cn
       avatar: https://muuzi.cn/mzlogo.png
       descr: 木子博客
+    4:
+      name: Small-Rose
+      link: https://zhangxiaocai.cn
+      avatar: https://cdn.jsdelivr.net/gh/small-rose/small-rose.github.io@master/medias/avatar.jpg
+      descr: JAVA WEB | 道虽迩，不行不至；事虽小，不为不成
+    5:
+      name: 一觉睡到小时候
+      link: https://lida1024.top/
+      avatar: https://s2.ax1x.com/2019/12/13/QcW5TI.png
+      descr: Java 前端
