@@ -18,8 +18,8 @@ categories:
 
 🤤 主要面向对象：应届生求职--前端
 
-|                             篇章                             | 第一版预计完成 |           状态           |
-| :----------------------------------------------------------: | :------------: | :----------------------: |
+|   篇章  | 第一版预计完成 |  状态  |
+| :----------------------------------: | :------------: | :----------------------: |
 | [HTML&CSS](https://github.com/okaychen/FE-Interview-Questions/blob/master/html-and-css.md) |      Q20       | 😀 已完善 |
 | [JavaScript](https://github.com/okaychen/FE-Interview-Questions/blob/master/javascript.md) |      Q25       | 😀 已完善 |
 | [HTTP&浏览器](https://github.com/okaychen/FE-Interview-Questions/blob/master/http.md) |      Q20       |        😂 已完善 |
@@ -69,4 +69,3 @@ Github阅读：[https://github.com/okaychen/FE-Interview-Brochure](https://githu
 为了让有个性的同学也看到这份前端面试小册，我推出了方案C‌
 
 我已经发布了release版本：[点击直接下载PDF](https://github.com/okaychen/FE-Interview-Questions/releases/download/v0.0.1/FE-Interview-Brochure_0.0.1.pdf)
-
