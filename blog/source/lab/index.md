@@ -6,8 +6,8 @@ top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/banner0
 ---
 
 {% note success %}
-#### 对我好奇嘛
-小站：FEEX，博主网上代号okaychen，95后Github粉，开源爱好者，执着于编程技术崇尚极客精神，2020年毕业就职于帝都某度，2017年12月5日搭建本站，初衷是个人写作和技术生活的学习记录，一些练习的作品和开源项目 👉 [Github](http://www.github.com/okaychen)
+#### 关于小站
+小站：浅笔墨画，博主网上代号okaychen，95后Github粉，开源爱好者，执着于编程技术崇尚极客精神，2020年毕业就职于帝都某度，2017年12月5日搭建本站，初衷是个人写作和技术生活的学习记录，一些练习的作品和开源项目 👉 [Github](http://www.github.com/okaychen)
 {% endnote %}
 
 {% note info %}
