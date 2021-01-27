@@ -4,4 +4,4 @@
 
 博客CDN静态资源管理：https://github.com/okaychen/CDN
 
-面试总结小册子：https:docs.chenqaq.com
+面试总结小册子：https://docs.chenqaq.com
