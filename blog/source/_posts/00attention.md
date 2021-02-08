@@ -1,6 +1,6 @@
 ---
 # post Front-matter
-title: 我的动态
+title: 这个小站有哪些动态呢
 date:  2020-7-30 00:00
 cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_002.jpg"
 comments: false

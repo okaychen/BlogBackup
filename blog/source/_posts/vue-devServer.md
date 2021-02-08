@@ -14,7 +14,6 @@ categories:
 
 我们想要给我们的mock data 找一个接口请求，原版配置在 dev-server.js ，新版的 vue-webpack-template 删除了dev-server.js，改用webpcak.dev.conf.js代替（具体更新见[github：switch to webpack-dev-server](https://github.com/vuejs-templates/webpack/pull/975)）
 
-![switch to webpack-dev-server](https://cdn.jsdelivr.net/gh/okaychen/CDN@2.2/BlogSource/images/vuecli1.png)
 <!-- more -->
 ```js
 // # webpack.dev.conf.js
