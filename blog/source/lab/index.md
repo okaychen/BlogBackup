@@ -33,7 +33,7 @@ top_img: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/banner0
 
 - 效果展示：
 {% gallery %}
-![](http://www.chenqaq.com/assets/photos/IndexDB.png)
+![](https://cdn.jsdelivr.net/gh/okaychen/CDN@1.0/BlogSource/photos/IndexDB.png)
 {% endgallery %}
 
 实验室三：饿了吗demo.
