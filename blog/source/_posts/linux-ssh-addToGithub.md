@@ -3,10 +3,9 @@ title: "linux下误将ssh密钥写入/root"
 date: 2018-10-05 12:05:37
 cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_045.jpg"
 tags:  
-    - Linux
-    - SSH
+    - Node
 categories:
-    - Linux
+    - Node
 ---
 
 无论是使用github类似的开源平台还是搭建的git服务器来团队协作开发，我们总是需要使用本地ssh密钥来建立连接，如果要使用ssh服务linux下我们还需要通过终端安装ssh并且开启ssh服务

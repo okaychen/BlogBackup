@@ -5,7 +5,7 @@ cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_04
 tags:
     - 读书笔记
 categories:
-    - [读书笔记]
+    - [浅笔墨画]
 ---
 BHAG理念的追求：Big Hairy Audacious Goals，宏伟的、冒险的、大胆的目标
 

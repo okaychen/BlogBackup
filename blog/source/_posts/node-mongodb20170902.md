@@ -6,8 +6,7 @@ tags:
     - Node
     - mongodb
 categories:
-    - [Node]
-    - [mongodb]
+    - Node
 ---
 # 写在前面
 最近读《node.js学习指南》，对于mongodb没有介绍太多的工作原理，但是对于一个前端开发者，即使你还没有用过这种数据库也可以让你很好的理解和使用

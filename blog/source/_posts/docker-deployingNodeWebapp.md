@@ -3,9 +3,9 @@ title: Docker容器实践-Node应用部署
 date: 2018-12-19 19:47:46
 cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_012.jpg"
 tags: 
-    - Docker
+    - JavaScript
 categories: 
-    - Docker
+    - JavaScript
 ---
 下面是一个简单的例子，用来实现如何在docker容器内运行node程序。
 

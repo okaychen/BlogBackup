@@ -7,7 +7,7 @@ cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_01
 tags:
     - 面试手册
 categories:
-    - 面试手册
+    - 浅笔墨画
 ---
 
 # 导读

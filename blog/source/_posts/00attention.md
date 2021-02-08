@@ -4,14 +4,13 @@ title: 我的动态
 date:  2020-7-30 00:00
 cover: "https://cdn.jsdelivr.net/gh/okaychen/CDN@1.2/BlogSource/gallery/thumb_002.jpg"
 comments: false
+top: 99
 # keywords:
 # description:
 # top_img:
 # toc:
 # toc_number:
 # copyright:
-
-top: 99 
 ---
 {% note success %}
 2021年02月：静态资源日益增多，升级抽离静态资源JSDelivr cdn + gitHub管理
@@ -28,6 +27,6 @@ top: 99
 {% endnote %} 
 
 {% note success %}
-2017年12月5日：为了方便管理和发文基于hexo搭建本站托管在github，初衷只是个人写作和技术生活的学习记录
+2017年12月5日：为了方便管理和发文基于hexo搭建本站托管在github，初衷是个人写作和技术生活的学习记录
 {% endnote %} 
 <!-- more -->

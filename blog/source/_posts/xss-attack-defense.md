@@ -43,6 +43,7 @@ http://www.test.com/logout.asp?out=l$url=javascript:alert(document.cookie)
 我们发现URL后本来应该是正常的键值对key=value，却被注入了一段恶意代码（即构造了一个其中包含恶意代码的特殊的url），应该慎用get请求，对隐秘的信息则是避免，get请求的键值会被暴露在URL中；POST的内容也会触发反射型XSS，不过触发条件相对苛刻。
 
 当然如果地址栏看到上面两个URL，可能被轻易的看穿该链接是不可信的，但是绝不要小瞧此类XSS的威力，一般黑客都会进行精心布置，恶意URL暴露一般会进行各种编码转化，编码转换后，攻击的迷惑性大大提高
+
 ![](https://cdn.jsdelivr.net/gh/okaychen/CDN@2.2/BlogSource/images/xss-encode01.png)
 
 ### 持久型（又叫存储型）
