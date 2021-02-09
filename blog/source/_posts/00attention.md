@@ -18,7 +18,7 @@ top: 99
 {% endnote %} 
 
 {% note success %}
-2020年02月～03月：应牛客网运营牛妹推荐，完成的一份90页pdf校招前端面试小册子
+2020年02月～03月：应牛客网运营牛妹推荐，写的一份90页pdf校招前端面试小册子
 --- 🌟 ---  [面试总结小册](https://github.com/okaychen/FE-Interview-Brochure) ｜ [相应托管页](https://docs.chenqaq.com/)
 {% endnote %} 
 
